@@ -1,0 +1,23 @@
+{
+  "name": "potatobot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TChin1010/PotatoBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TChin1010/PotatoBot/issues"
+  },
+  "homepage": "https://github.com/TChin1010/PotatoBot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
